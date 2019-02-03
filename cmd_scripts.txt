@@ -1,0 +1,9 @@
+transform FIT to GPX  (GPSBABEL)
+
+gpsbabel -i garmin_fit -f fit_data/921B4648.FIT -o gpx -F fit2gpx/921B4648.gpx
+
+
+
+transform FIT to CSV (FIT_SDK)
+
+java -jar fit/fit_sdk/java/FitCSVTool.jar -b fit/fit_data/921B4648.FIT fit/fit2csv/921B4648.csv
