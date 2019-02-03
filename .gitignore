@@ -2,7 +2,9 @@
 fit_sdk/*
 
 #data (activities)
-data/*
+data/fit_raw/*.FIT
+data/fit2csv/*.csv
+data/fit2gpx/*.gpx
 
 
 
