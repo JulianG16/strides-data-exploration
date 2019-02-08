@@ -4,6 +4,7 @@ fit_sdk/*
 #data (activities)
 data/fit_raw/*.FIT
 data/fit2csv/*.csv
+data/fit2csv/new*
 data/fit2gpx/*.gpx
 data/activities_until_19_02_06/*.zip
 data/activities_until_19_02_06/*.FIT
