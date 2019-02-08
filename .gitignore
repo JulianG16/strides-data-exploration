@@ -5,6 +5,11 @@ fit_sdk/*
 data/fit_raw/*.FIT
 data/fit2csv/*.csv
 data/fit2gpx/*.gpx
+data/activities_until_19_02_06/*.zip
+data/activities_until_19_02_06/*.FIT
+data/activities_until_19_02_06/*.fit
+data/activities_until_19_02_06/*.gpx
+data/export_6051962.zip
 
 
 
